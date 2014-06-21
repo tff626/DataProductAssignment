@@ -26,9 +26,20 @@ mode        : selfcontained # {standalone, draft}
 
 2. Simple to use: Answer all the questions, click the "submit" button, and view your own result!
 
+---
+## Facts about the results
+
+1. Range of the total score is from 20 to 140.
+
+2. Answers of half of the questions (3,4,6,7,9,10,11,14,16,17) are reversed to balance the experimenter demand effect.
+
+
+3. Now it is time to test your total score :) I hope you enjoy my little application.
+
+
 ---&radio
 
-## How to interpret the test results?
+## One sample question
 
 Never tell anyone the real reason you did something unless it is useful to do so.
 
@@ -45,16 +56,4 @@ Just pretend that you are very cynical. What would you choose?
 
 *** .explanation
 Haha, I know you are very cynical! Well, just kidding. I explicitly ask you to choose the answer. 
----
-
-
-## Conclusion
-
-1. Range of the total score is from 20 to 140.
-
-2. Answers of half of the questions (3,4,6,7,9,10,11,14,16,17) are reversed to balance the experimenter demand effect.
-
-
-3. Now it is time to test your total score :) I hope you enjoy my little application. Thank you very much for your time!
-
 ---
